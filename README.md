@@ -50,6 +50,14 @@ Este controle modular oferece flexibilidade e acessibilidade para pessoas com de
 
 
 
+
+
+
+
+
+
+
+
 # Manual de Uso do Controle Modular para Deficientes Físicos - Versão Final
 
 ## Introdução
